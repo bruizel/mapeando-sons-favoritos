@@ -34,4 +34,5 @@ Contribuições
 
 Contato
 bruno.walace@icloud.com
+
 linkedin.com/in/bruno-walace/
