@@ -24,6 +24,7 @@ Instalação
   pip install -r requirements.txt
 4. Execute o aplicativo:
   python app.py
+5. Caso o navegador nao abra automáticamente acesse: http://127.0.0.1:8050
 
 Uso
   Ao iniciar o aplicativo, selecione um período de tempo no menu suspenso para visualizar as músicas e artistas mais ouvidos nesse período.
